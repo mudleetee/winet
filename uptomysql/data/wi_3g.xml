@@ -1,0 +1,215 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>somchai noieam</Author>
+  <LastAuthor>somchai noieam</LastAuthor>
+  <Created>2014-09-10T17:54:45Z</Created>
+  <LastSaved>2014-09-10T18:44:25Z</LastSaved>
+  <Version>12.00</Version>
+ </DocumentProperties>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>8010</WindowHeight>
+  <WindowWidth>20115</WindowWidth>
+  <WindowTopX>240</WindowTopX>
+  <WindowTopY>30</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Tahoma" x:CharSet="222" x:Family="Swiss" ss:Size="11"
+    ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s20">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior ss:Color="#FFC000" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s21">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior ss:Color="#FFC000" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s22">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s23">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s24">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s25">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s26">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <NumberFormat ss:Format="@"/>
+  </Style>
+  <Style ss:ID="s27">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior/>
+   <NumberFormat ss:Format="@"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="3G Site">
+  <Table ss:ExpandedColumnCount="12" ss:ExpandedRowCount="5" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="54" ss:DefaultRowHeight="14.25">
+   <Column ss:Width="65.25"/>
+   <Column ss:Index="3" ss:Width="60"/>
+   <Column ss:Width="76.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="72.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="144"/>
+   <Column ss:Index="8" ss:AutoFitWidth="0" ss:Width="74.25"/>
+   <Column ss:Index="10" ss:Width="58.5"/>
+   <Column ss:Width="68.25"/>
+   <Column ss:Width="69"/>
+   <Row>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">รหัส 10 หลัก</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">site_type</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">property_id</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">site_code</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">site_id</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">site_name</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">site_lat</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">site_long</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">site_tam</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">site_district</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">site_province</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">site_area_tot</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s26"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">TOT Site</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">skm002</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">skm002</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String" x:Ticked="1">7501500002</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">ชุมสายโทรศัพท์สมุทรสงคราม</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String" x:Ticked="1">13.409820</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String" x:Ticked="1">100.002960</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">แม่กลอง</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">เมือง</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">สมุทรสงคราม</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">ภ.1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s26"><Data ss:Type="Number">7501000019</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">skm006</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">University_129</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">7501520001</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">สารพัดช่างสมุทรสงคราม</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">แม่กลอง</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">เมือง</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">สมุทรสงคราม</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">ภ.1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s26"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">TOT Site</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">skm003</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">skm003</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="Number">7502500001</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">BANG_KHONTHI</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String" x:Ticked="1">13.465680</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String" x:Ticked="1">99.943750</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">กระดังงา</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">บางคนที</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">สมุทรสงคราม</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">ภ.1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s26"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">TOT Site</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">skm001</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">skm001</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="Number">7503500001</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">AMPHAWA</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String" x:Ticked="1">13.421230</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String" x:Ticked="1">99.962650</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">อัมพวา</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">อัมพวา</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">สมุทรสงคราม</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">ภ.1</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <TabColorIndex>19</TabColorIndex>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>2</ActiveRow>
+     <ActiveCol>4</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

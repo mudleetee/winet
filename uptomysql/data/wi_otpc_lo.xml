@@ -1,0 +1,197 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>somchai noieam</Author>
+  <LastAuthor>somchai noieam</LastAuthor>
+  <Created>2014-08-27T11:48:18Z</Created>
+  <LastSaved>2014-12-17T04:43:44Z</LastSaved>
+  <Version>12.00</Version>
+ </DocumentProperties>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>8010</WindowHeight>
+  <WindowWidth>19440</WindowWidth>
+  <WindowTopX>240</WindowTopX>
+  <WindowTopY>30</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Tahoma" x:CharSet="222" x:Family="Swiss" ss:Size="11"
+    ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s23">
+   <Alignment ss:Vertical="Bottom"/>
+  </Style>
+  <Style ss:ID="s24">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Tahoma" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
+    ss:Bold="1"/>
+   <Interior ss:Color="#B8CCE4" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s25">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Tahoma" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
+    ss:Bold="1"/>
+   <Interior ss:Color="#C2D69A" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s26">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Tahoma" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s27">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Tahoma" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s28">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Tahoma" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
+    ss:Bold="1"/>
+   <Interior ss:Color="#B8CCE4" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s75">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Tahoma" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
+    ss:Bold="1"/>
+   <Interior ss:Color="#B8CCE4" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s76">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Tahoma" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Wi-Link SW(Location) (2)">
+  <Table ss:ExpandedColumnCount="6" ss:ExpandedRowCount="7" x:FullColumns="1"
+   x:FullRows="1" ss:StyleID="s23" ss:DefaultColumnWidth="77.25"
+   ss:DefaultRowHeight="14.25">
+   <Column ss:StyleID="s23" ss:Width="90"/>
+   <Column ss:StyleID="s23" ss:Width="76.5"/>
+   <Column ss:StyleID="s23" ss:Width="64.5"/>
+   <Column ss:StyleID="s23" ss:AutoFitWidth="0" ss:Width="55.5"/>
+   <Column ss:StyleID="s23" ss:Width="64.5"/>
+   <Row>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">อำเภอ</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">พื้นที่</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">PE_name</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">VLAN_m</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">IP_GW</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">ect</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">เมืองสมุทรสงคราม</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">คลองโคน</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">skm_f7k_01</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">100</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">10.11.128.1</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">-</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">เมืองสมุทรสงคราม</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">แหลมใหญ่</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">skm_f7k_01</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">100</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">10.11.128.1</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">-</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">เมืองสมุทรสงคราม</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">บางแก้ว</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">skm_f7k_01</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">100</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">10.11.128.1</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">-</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">เมืองสมุทรสงคราม</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">นางตะเคียน</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">skm_f7k_01</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">100</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">10.11.128.1</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">-</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">อัมพวา</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">แพรกหนามแดง</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">skm_f7k_01</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">98</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">10.12.0.1</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">-</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">อัมพวา</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">ยี่สาร</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">skm_f7k_01</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">98</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">10.12.0.1</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">-</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>11</ActiveRow>
+     <ActiveCol>4</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

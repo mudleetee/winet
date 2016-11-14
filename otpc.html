@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ศูนย์สื่อสารไร้สาย</title>
+	<link href="css/siteotpc.css" rel="stylesheet">
+	<meta charset="UTF-8">
+<script>
+function showUser(str) {
+  if (str=="") {
+	//echo str;
+    document.getElementById("txtHint").innerHTML="";
+    return;
+  }
+  if (window.XMLHttpRequest) {
+    // code for IE7+, Firefox, Chrome, Opera, Safari
+    xmlhttp=new XMLHttpRequest();
+  } else { // code for IE6, IE5
+    xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+  }
+  
+  xmlhttp.onreadystatechange=function() {
+    if (xmlhttp.readyState==4 && xmlhttp.status==200) {
+      document.getElementById("txtHint").innerHTML=xmlhttp.responseText;
+    }
+  }
+  
+  if (str>=2) {
+	xmlhttp.open("GET","get_otpc_bc.php?q="+str,true);
+  } else {
+	xmlhttp.open("GET","get_otpc_location.php?q="+str,true);
+  }
+	
+	xmlhttp.send();
+  }
+  </script>
+  </head>
+
+ <body>
+
+<form>
+<select name="users" onchange="showUser(this.value)">
+	<option value="">โปรดเลือกข้อมูล :</option>
+	<option value="1">ข้อมูล Location OTPC</option>
+	<option value="2">ข้อมูล Base และ โรงเรียน OTPC</option>
+</select>
+</form>
+
+
+<ul id='menu'> 
+<li><a onclick="showUser(1)">ข้อมูล Location OTPC</a></li>
+<li><a onclick="showUser(2)">ข้อมูล Base และ โรงเรียน OTPC</a></li>
+</ul> 
+
+<br>
+<div id="txtHint"><b>Person info will be listed here.</b></div>
+<script src="scriptwinet.js"></script>
+</body>
+</html> 
